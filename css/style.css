@@ -240,9 +240,16 @@ input {
         position: static;
         transform: rotate(0);
         width: 40%;
+        padding-top:3rem ;
     }
 
     #title {
         text-align: center;
+    }
+    .download-button{
+         margin:  1.5rem;
+    }
+    .pricing-column{
+        margin: 0rem;
     }
 }
